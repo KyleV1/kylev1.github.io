@@ -1,7 +1,6 @@
 
 Thank you for viewing my portfolio of recent cybersecurity projects. Below you will find projects related to _Azure_, _network security_, _Bash scripting_, and _more_. 
 
-#Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 # **Project 1**
 
