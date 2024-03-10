@@ -12,6 +12,9 @@ This project utilized **Azure's** security features to protect a web application
 
  <img src="/Images/site.png" alt="image1" style="width:500px;height:400px;">
 
+</style>
+</head>
+</html>
 * {
   box-sizing: border-box;
 }
@@ -46,6 +49,9 @@ This project utilized **Azure's** security features to protect a web application
     <img src="/Images/sc3.png" alt="Mountains" style="width:100%">
   </div>
 </div> 
+
+</body>
+</html>
 
 
 # Project 2
