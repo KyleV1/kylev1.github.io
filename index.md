@@ -29,7 +29,7 @@ The images below show how I used Splunk to build a custom security monitoring en
 
  <img src="/Images/p3.png" alt="image1" style="width:600px;height:200px;">
  <img src="/Images/p32.png" alt="image1" style="width:600px;height:300px;">
- <img src="/Images/p33.png" alt="image1" style="width:600px;height:200px;">
+ <img src="/Images/p33.png" alt="image1" style="width:600px;height:300px;">
 
 ## Header 2
 
