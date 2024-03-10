@@ -2,9 +2,10 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Thank you for viewing my portfolio of recent cybersecurity projects. Below you will find projects related to _penetration testing_, _splunk_, _risk analysis_, and _more_. 
 
-[Link to another page](./another-page.html).
+#Text can be **bold**, _italic_, or ~~strikethrough~~.
+
 
 There should be whitespace between paragraphs.
 
