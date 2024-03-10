@@ -13,7 +13,7 @@ This project utilized **Azure's** security features to protect a web application
  <img src="/Images/site.png" alt="image1" style="width:500px;height:400px;">
  <img src="/Images/sc1.png" alt="image1" style="width:500px;height:400px;">
  <img src="/Images/scInclude.png" alt="image1" style="width:700px;height:400px;">
- <img src="/Images/scInclude2.png" alt="image1" style="width:500px;height:500px;">
+ <img src="/Images/scInclude2.png" alt="image1" style="width:500px;height:400px;">
 
 
 
