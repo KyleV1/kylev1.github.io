@@ -9,7 +9,7 @@ Thank you for viewing my portfolio of recent cybersecurity projects. Below you w
 
 # Project 1
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+This video demonstration shows how I created a **Disk usage alert using Bash**
 
 <iframe width="912" height="513"
 src="https://www.youtube.com/embed/VSjTKc0Stlk?autoplay=1&mute=1">
