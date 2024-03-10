@@ -1,4 +1,3 @@
-<img src="/Images/use.gif" alt="image1" style="width:400px;height:200px;">
 
 Thank you for viewing my portfolio of recent cybersecurity projects. Below you will find projects related to _penetration testing_, _splunk_, _risk analysis_, and _more_. 
 
@@ -10,7 +9,7 @@ This project utilized **Azure's** security features to protect a web application
 
  <img src="/Images/site.png" alt="image1" style="width:500px;height:400px;">
  <img src="/Images/sc1.png" alt="image1" style="width:500px;height:400px;">
- <img src="/Images/scInclude.png" alt="image1" style="width:700px;height:400px;">
+ <img src="/Images/scInclude.png" alt="image1" style="width:600;height:300px;">
  <img src="/Images/scInclude2.png" alt="image1" style="width:500px;height:400px;">
 
 
