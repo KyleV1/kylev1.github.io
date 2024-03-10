@@ -10,9 +10,7 @@ Thank you for viewing my portfolio of recent cybersecurity projects. Below you w
 
 This project utilized **Azure's** security features to protect a web application
 
-<iframe width="912" height="513"
-src="https://www.youtube.com/embed/VSjTKc0Stlk?autoplay=1&mute=1">
-</iframe> 
+ <img src="Screenshot 2024-03-09 194754" alt="alternatetext"> 
 
 
 # Project 2
