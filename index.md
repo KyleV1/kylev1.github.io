@@ -27,7 +27,7 @@ src="https://www.youtube.com/embed/VSjTKc0Stlk?autoplay=1&mute=1">
 
 The images below show how I used Splunk to build a custom security monitoring environment for a fictional organization, tested that environment against simulated attacks, and presented my monitoring environment.
 
- <img src="/Images/p3.png" alt="image1" style="width:600px;height:200px;">
+ <img src="/Images/p3.png" alt="image1" style="width:700px;height:200px;">
  <img src="/Images/p32.png" alt="image1" style="width:1000;height:500px;">
  <img src="/Images/p33.png" alt="image1" style="width:1000px;height:600px];">
 
