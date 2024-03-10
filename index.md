@@ -3,7 +3,7 @@ Thank you for viewing my portfolio of recent cybersecurity projects. Below you w
 
 #Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-# Project 1
+# **Project 1**
 
 This project utilized **Azure's** security features to protect a web application
 
@@ -14,7 +14,7 @@ This project utilized **Azure's** security features to protect a web application
 
 
 
-# Project 2
+# **Project 2**
 
 This video demonstration shows how I created a **Disk usage alert using Bash**
 
