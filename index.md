@@ -10,7 +10,7 @@ Thank you for viewing my portfolio of recent cybersecurity projects. Below you w
 
 This project utilized **Azure's** security features to protect a web application
 
- <img src="/Images/sc1.png" alt="image1"> 
+ <img src="/Images/sc1.png" alt="image1"> style="width:500px;height:600px;">
 
 
 # Project 2
