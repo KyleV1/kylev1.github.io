@@ -1,4 +1,4 @@
-<img src="/Images/use.gif" alt="image1" style="width:600px;height:400px;">
+<img src="/Images/use.gif" alt="image1" style="width:400px;height:200px;">
 
 Thank you for viewing my portfolio of recent cybersecurity projects. Below you will find projects related to _penetration testing_, _splunk_, _risk analysis_, and _more_. 
 
