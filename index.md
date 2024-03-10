@@ -12,6 +12,18 @@ This project utilized **Azure's** security features to protect a web application
 
  <img src="/Images/site.png" alt="image1" style="width:500px;height:400px;">
 
+<div class="row">
+  <div class="column">
+    <img src="/Images/sc1.png" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/Images/sc2.png" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/Images/sc3.png" alt="Mountains" style="width:100%">
+  </div>
+</div> 
+
 
 # Project 2
 
